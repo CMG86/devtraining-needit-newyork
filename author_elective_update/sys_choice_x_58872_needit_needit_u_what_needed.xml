@@ -30,7 +30,7 @@
         <reverted_from/>
         <source>21431e491b290010dc628515ec4bcbd9</source>
         <source_table>sys_upgrade_history</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>CMG86</sys_created_by>
         <sys_created_on>2019-12-04 13:50:01</sys_created_on>
         <sys_id>6d435e491b290010dc628515ec4bcb00</sys_id>
